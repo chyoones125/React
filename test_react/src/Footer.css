@@ -1,0 +1,12 @@
+.Text{
+    color: red;
+}
+.App{
+    box-shadow: 0px 0px 4px #333;
+    color: black;
+    background-color: #333;
+    border: 3px solid #333;
+    border-radius: 6px;
+    margin-top: 10px;
+
+}
